@@ -1,0 +1,33 @@
+variable,description,
+caseid,Serial number,
+country,Country in which survey is carried out,
+purchaselabel,Whether the sustainable labeled product purchase or not. 1 purchase 0 not,
+gender,1,Female
+,2,Male
+gender_rev,0,Female
+,1,Male
+agegroup,1,13-26 years
+,2,27-35 years
+,3,36-47 years
+,4,48-55 years
+,5,56-65 years
+,6,66 years and older
+ruralurban,1,Rural area 
+,2,Small or medium sized town
+,3,Big city
+GDP,GDP,
+BMI,BodyMassIndex,
+children,1,Yes
+,0,No children
+numchild,No. of Children,
+education_rev,1,No full-time education
+,2,Up to 10years
+,3,11 years
+,4,12 years
+,5,13 years
+,6,14 years
+,7,15 years
+,8,16 years
+,9,17 years
+,10,18 years and more
+trustngo,Whether people trust NGOs or not,
